@@ -18,11 +18,12 @@ Que el estudiante comprenda los fundamentos de la administración, analice su ev
 ```text
 introduccion-administracion/
 ├── index.html                       # Portal principal
-├── planeacion_administrativa.html   # Primer artefacto ya publicado
+├── planeacion_administrativa.html   # Artefacto 1: Planeación y decisiones
+├── organizacion_estructura.html     # Artefacto 2: Organización y estructura
 └── README.md                        # Documentación del proyecto
 ```
 
-> **Importante:** al subir los archivos nuevos, conserva `planeacion_administrativa.html` en la raíz. El portal enlaza a ese nombre exacto.
+> **Importante:** conserva ambos artefactos en la raíz del repositorio. Para mostrar el segundo en el portal, incorpora su enlace en `index.html` si aún no aparece.
 
 ## Material disponible
 
@@ -38,6 +39,21 @@ Contenidos:
 4. **Ejercicio integrador:** diseño y planeación de un proyecto empresarial.
 
 **Evaluación máxima:** 8 puntos (2 puntos por apartado). La calificación corresponde a la revisión del catedrático; los controles del navegador no representan una calificación institucional.
+
+### Artefacto 2 — Organización y estructura empresarial (Unidad II)
+
+Acceso directo: [Abrir artefacto 2](https://luislopezv71-sudo.github.io/introduccion-administracion/organizacion_estructura.html) *(disponible después de subir el archivo)*.
+
+Contenidos:
+
+1. **Apuntes académicos:** organización formal e informal, división del trabajo, especialización, autoridad, responsabilidad, jerarquía y organigramas.
+2. **Ejercicios de análisis:** dos ejemplos resueltos, cinco ejercicios y autoevaluación.
+3. **Investigación:** estudio de la estructura de una organización real.
+4. **Ejercicio integrador:** organización de la Feria Académica Escolar, en continuidad con el primer artefacto.
+
+**Evaluación máxima:** 8 puntos (2 puntos por apartado), sujetos a revisión de las evidencias en el cuaderno por el catedrático.
+
+**Material complementario para NotebookLM:** `FUENTE_NOTEBOOKLM_UNIDAD_II.md` y `GUIAS_NOTEBOOKLM.md` permiten preparar video, infografía y actividades de apoyo. Estos archivos pueden conservarse como recursos docentes; no son necesarios para ejecutar el HTML.
 
 ## Próximos módulos
 
@@ -76,12 +92,20 @@ Estos módulos figuran como **en preparación** y no tienen enlaces activos hast
 1. Abre el repositorio `luislopezv71-sudo/introduccion-administracion`.
 2. En la rama `main`, selecciona **Add file → Upload files**.
 3. Sube `index.html` y `README.md` a la **raíz** del repositorio.
-4. Conserva el archivo existente `planeacion_administrativa.html`.
+4. Conserva `planeacion_administrativa.html` y sube `organizacion_estructura.html` a la misma carpeta.
 5. Confirma los cambios con **Commit changes**.
 6. Verifica que GitHub Pages publique desde `main` y la carpeta `/ (root)` en **Settings → Pages**.
-7. Abre https://luislopezv71-sudo.github.io/introduccion-administracion/ y prueba el botón **Abrir artefacto**.
+7. Abre https://luislopezv71-sudo.github.io/introduccion-administracion/ y verifica el primer artefacto. Si el portal aún no muestra el segundo, añade en `index.html` un enlace a `organizacion_estructura.html`.
+8. Prueba la URL directa de ambos artefactos.
 
 ## Créditos
+
+**Universidad William Osler**  
+**Asignatura:** Administración I  
+**Catedrático y coordinación académica:** L.I. Luis Arturo López Vergara
+
+Material educativo de apoyo. Los contenidos y actividades están sujetos a las indicaciones y criterios de evaluación del docente.
+
 
 **Universidad William Osler**  
 **Asignatura:** Administración I  
