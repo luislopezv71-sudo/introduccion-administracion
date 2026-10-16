@@ -57,11 +57,19 @@ Estos módulos figuran como **en preparación** y no tienen enlaces activos hast
 
 ## Tecnologías
 
-- **HTML5:** estructura semántica del portal.
-- **CSS3:** diseño adaptable a computadoras y teléfonos.
-- **GitHub Pages:** alojamiento estático y acceso desde navegador.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Dise%C3%B1o-Responsive-00897B?style=for-the-badge)
 
-El `index.html` del portal no necesita instalación, compilación ni dependencias externas.
+- **HTML5:** estructura semántica del portal y los artefactos educativos.
+- **CSS3:** presentación visual y diseño adaptable a computadoras, tabletas y teléfonos.
+- **JavaScript:** interactividad, formularios, actividades y seguimiento local en los artefactos que lo implementan.
+- **GitHub Pages:** publicación estática del portal y acceso desde el navegador.
+- **Diseño responsivo:** adaptación de la interfaz a diferentes tamaños de pantalla.
+
+> **Nota:** el seguimiento local del navegador no equivale a un registro institucional de calificaciones. El portal no requiere instalación, compilación ni servidor propio.
 
 ## Publicación en GitHub Pages
 
@@ -79,4 +87,4 @@ El `index.html` del portal no necesita instalación, compilación ni dependencia
 **Asignatura:** Administración I  
 **Catedrático y coordinación académica:** L.I. Luis Arturo López Vergara
 
-Material educativo de apoyo. Los contenidos y actividades están sujetos a las indicaciones y criterios de evaluación del docente.
+Material educativo de apoyo. Los contenidos y actividades están sujetos a las indicaciones y criterios de evaluación del docente.indicaciones y criterios de evaluación del docente.
