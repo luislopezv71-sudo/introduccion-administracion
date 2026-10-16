@@ -1,4 +1,4 @@
-# Administración I — Universidad William Osler
+# Introducción a la Administración I — Universidad William Osler
 
 **Portal académico interactivo para bachillerato**  
 **Catedrático:** L.I. Luis Arturo López Vergara
