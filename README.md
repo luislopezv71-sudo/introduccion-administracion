@@ -25,10 +25,12 @@ introduccion-administracion/
 ├── recursos_unidad_02.json            # Recursos audiovisuales del artefacto 2
 ├── recursos_unidad_03.json            # Recursos audiovisuales del artefacto 3
 ├── recursos_unidad_04.json            # Recursos audiovisuales del artefacto 4
+├── empresa_clasificacion_recursos.html # Artefacto 5: La empresa y sus recursos
+├── recursos_unidad_05.json            # Recursos audiovisuales del artefacto 5
 └── README.md                        # Documentación del proyecto
 ```
 
-> **Importante:** conserva ambos artefactos en la raíz del repositorio. Para mostrar el segundo en el portal, incorpora su enlace en `index.html` si aún no aparece.
+> **Importante:** conserva los artefactos 1 a 4 y sus archivos JSON. Para publicar el Artefacto 5, añade los archivos nuevos y sustituye `index.html` y `README.md`.
 
 ## Material disponible
 
@@ -76,11 +78,17 @@ Antecedentes históricos, administración científica (Taylor), teoría clásica
 
 **Evaluación:** cuatro partes de 2 puntos; máximo 8. Los enlaces de video, infografía y material adicional se publican mediante `recursos_unidad_04.json`. La fuente y las guías NotebookLM se distribuyen por separado como apoyo docente.
 
+### Artefacto 5 · La empresa, su clasificación y sus recursos (Unidad V)
+
+[Abrir Artefacto 5](https://luislopezv71-sudo.github.io/introduccion-administracion/empresa_clasificacion_recursos.html)
+
+Diferencias entre empresa y organización; clasificación por actividad, tamaño, propiedad y ámbito; recursos humanos, materiales, financieros, tecnológicos y de información; ingresos, costos, entorno y responsabilidad empresarial. Incluye actividad audiovisual en cuaderno, dos ejemplos resueltos, cinco ejercicios, autoevaluación, investigación y emprendimiento de la Feria Académica Escolar.
+
+**Evaluación:** cuatro partes de 2 puntos; máximo 8. Los enlaces de video, infografía y material adicional se publican mediante `recursos_unidad_05.json`. La fuente `FUENTE_NOTEBOOKLM_UNIDAD_V.md` y las guías `GUIAS_NOTEBOOKLM_UNIDAD_V.md` se distribuyen como apoyo docente, con video en español de Latinoamérica.
+
 ## Próximos módulos
 
-- La empresa, su clasificación y sus recursos.
-
-Estos módulos figuran como **en preparación** y no tienen enlaces activos hasta su publicación.
+Los próximos contenidos se definirán según el avance del programa académico.
 
 ## Metodología de trabajo
 
