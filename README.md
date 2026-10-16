@@ -21,7 +21,10 @@ introduccion-administracion/
 ├── planeacion_administrativa.html   # Artefacto 1: Planeación y decisiones
 ├── organizacion_estructura.html     # Artefacto 2: Organización y estructura
 ├── fundamentos_administracion.html    # Artefacto 3
+├── evolucion_escuelas_administrativas.html # Artefacto 4
+├── recursos_unidad_02.json            # Recursos audiovisuales del artefacto 2
 ├── recursos_unidad_03.json            # Recursos audiovisuales del artefacto 3
+├── recursos_unidad_04.json            # Recursos audiovisuales del artefacto 4
 └── README.md                        # Documentación del proyecto
 ```
 
@@ -65,9 +68,16 @@ Concepto, importancia, eficacia, eficiencia, productividad, características de 
 
 **Evaluación:** cuatro partes de 2 puntos, máximo 8. Los recursos audiovisuales se administran mediante `recursos_unidad_03.json`, publicado en la raíz del repositorio.
 
+### Artefacto 4 · Evolución histórica y escuelas administrativas (Unidad IV)
+
+[Abrir Artefacto 4](https://luislopezv71-sudo.github.io/introduccion-administracion/evolucion_escuelas_administrativas.html)
+
+Antecedentes históricos, administración científica (Taylor), teoría clásica (Fayol), relaciones humanas, sistemas, contingencia y mejora continua. Contiene línea del tiempo, actividad audiovisual, dos ejemplos resueltos, cinco ejercicios, autoevaluación, investigación de una organización real y rediseño de la Feria Académica Escolar.
+
+**Evaluación:** cuatro partes de 2 puntos; máximo 8. Los enlaces de video, infografía y material adicional se publican mediante `recursos_unidad_04.json`. La fuente y las guías NotebookLM se distribuyen por separado como apoyo docente.
+
 ## Próximos módulos
 
-- Evolución histórica y escuelas administrativas.
 - La empresa, su clasificación y sus recursos.
 
 Estos módulos figuran como **en preparación** y no tienen enlaces activos hasta su publicación.
