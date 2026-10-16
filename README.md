@@ -141,3 +141,12 @@ Material educativo de apoyo. Los contenidos y actividades están sujetos a las i
 Dirección administrativa, autoridad, estilos de liderazgo, comunicación, motivación, delegación, toma de decisiones y resolución de conflictos. Cuatro partes de 2 puntos (máximo 8), con evidencias en cuaderno y revisión docente. Incluye recursos audiovisuales editables mediante `recursos_unidad_06.json` y material para NotebookLM en español de Latinoamérica.
 
 Para publicar: añadir `direccion_liderazgo_empresarial.html` y `recursos_unidad_06.json`; reemplazar `index.html` y `README.md` en la raíz del repositorio. Conservar los cinco artefactos anteriores.
+
+
+## Artefacto 7 · Unidad VII: Control administrativo y mejora continua
+
+[Acceder al Artefacto 7](https://luislopezv71-sudo.github.io/introduccion-administracion/control_administrativo_mejora_continua.html)
+
+Estándares, medición, desviaciones, KPI, tipos de control y mejora continua PHVA. Incluye dos ejemplos resueltos, cinco ejercicios, investigación aplicada y tablero de control de la Feria Académica Escolar. Cuatro partes de 2 puntos (máximo 8), con evidencias en cuaderno y revisión docente. Recursos audiovisuales mediante `recursos_unidad_07.json` y guía NotebookLM en español de Latinoamérica.
+
+Para publicar: añadir `control_administrativo_mejora_continua.html` y `recursos_unidad_07.json`; sustituir `index.html` y `README.md` en la raíz. Conservar los seis artefactos anteriores.
