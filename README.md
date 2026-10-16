@@ -132,3 +132,12 @@ Los próximos contenidos se definirán según el avance del programa académico.
 **Catedrático y coordinación académica:** L.I. Luis Arturo López Vergara
 
 Material educativo de apoyo. Los contenidos y actividades están sujetos a las indicaciones y criterios de evaluación del docente.
+
+
+## Artefacto 6 · Unidad VI: Dirección y liderazgo empresarial
+
+[Acceder al Artefacto 6](https://luislopezv71-sudo.github.io/introduccion-administracion/direccion_liderazgo_empresarial.html)
+
+Dirección administrativa, autoridad, estilos de liderazgo, comunicación, motivación, delegación, toma de decisiones y resolución de conflictos. Cuatro partes de 2 puntos (máximo 8), con evidencias en cuaderno y revisión docente. Incluye recursos audiovisuales editables mediante `recursos_unidad_06.json` y material para NotebookLM en español de Latinoamérica.
+
+Para publicar: añadir `direccion_liderazgo_empresarial.html` y `recursos_unidad_06.json`; reemplazar `index.html` y `README.md` en la raíz del repositorio. Conservar los cinco artefactos anteriores.
