@@ -20,6 +20,8 @@ introduccion-administracion/
 ├── index.html                       # Portal principal
 ├── planeacion_administrativa.html   # Artefacto 1: Planeación y decisiones
 ├── organizacion_estructura.html     # Artefacto 2: Organización y estructura
+├── fundamentos_administracion.html    # Artefacto 3
+├── recursos_unidad_03.json            # Recursos audiovisuales del artefacto 3
 └── README.md                        # Documentación del proyecto
 ```
 
@@ -55,9 +57,16 @@ Contenidos:
 
 **Material complementario para NotebookLM:** `FUENTE_NOTEBOOKLM_UNIDAD_II.md` y `GUIAS_NOTEBOOKLM.md` permiten preparar video, infografía y actividades de apoyo. Estos archivos pueden conservarse como recursos docentes; no son necesarios para ejecutar el HTML.
 
+### Artefacto 3 · Fundamentos de la administración (Unidad III)
+
+[Abrir Artefacto 3](https://luislopezv71-sudo.github.io/introduccion-administracion/fundamentos_administracion.html)
+
+Concepto, importancia, eficacia, eficiencia, productividad, características de la administración, proceso administrativo y relación con otras disciplinas. Incluye guía audiovisual, dos ejemplos resueltos, cinco ejercicios, autoevaluación, investigación y proyecto integrador de la Feria Académica Escolar.
+
+**Evaluación:** cuatro partes de 2 puntos, máximo 8. Los recursos audiovisuales se administran mediante `recursos_unidad_03.json`, publicado en la raíz del repositorio.
+
 ## Próximos módulos
 
-- Fundamentos de la administración.
 - Evolución histórica y escuelas administrativas.
 - La empresa, su clasificación y sus recursos.
 
@@ -105,10 +114,3 @@ Estos módulos figuran como **en preparación** y no tienen enlaces activos hast
 **Catedrático y coordinación académica:** L.I. Luis Arturo López Vergara
 
 Material educativo de apoyo. Los contenidos y actividades están sujetos a las indicaciones y criterios de evaluación del docente.
-
-
-**Universidad William Osler**  
-**Asignatura:** Administración I  
-**Catedrático y coordinación académica:** L.I. Luis Arturo López Vergara
-
-Material educativo de apoyo. Los contenidos y actividades están sujetos a las indicaciones y criterios de evaluación del docente.indicaciones y criterios de evaluación del docente.
